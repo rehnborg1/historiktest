@@ -1,3 +1,5 @@
+# asöeuefh
+
 from math import sqrt, log10, floor, pi
 from sys import argv
 
